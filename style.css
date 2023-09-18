@@ -1,0 +1,29 @@
+.caja{
+    width: 500px;
+    height: 200px;
+    /* border:1px solid red; */
+    /* background-color: green; */
+    /* background-color:rgba(255,0,0,1); */
+    background-color: #793FDF;
+
+}
+h1{
+    position: absolute;
+    color: #ffffff;
+}
+#D1{
+    background-color: #7091F5;
+    width: 500px;
+    height: 100px;
+}
+#D2{
+    background-color:#97FFF4;
+    width: 500px;
+    height: 50px;
+}
+
+#D3{
+    background-color: #FFFD8C;
+    width: 500px;
+    height: 30px;
+}
